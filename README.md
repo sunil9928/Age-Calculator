@@ -15,4 +15,4 @@ A web-based Age Comparison Calculator built using HTML, CSS and JavaScript.
 - Bootstrap 5
 
 ## Live Demo
-https://sunil9928.github.io/Age-Calculator/
+https://sunil9928.github.io/Age-Comparison/
